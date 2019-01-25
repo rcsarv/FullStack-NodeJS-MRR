@@ -1,1 +1,9 @@
+Docker Swarm Stack of complete package of development 
 
+Programming: (Nodejs with crond, ntpd, ssh) 
+
+DBs Mongod, Redis 
+
+Queue RabbitMQ 
+
+This Create total 4 Docker and enable full stack programming
